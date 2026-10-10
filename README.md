@@ -1,5 +1,5 @@
 <a href="https://marcossilva-qa.github.io">
-  <img src="imagens/banner.jpg" alt="Marcos Silva, Senior QA Engineer: automatizo o QA de ponta a ponta, da API à evidência" width="100%">
+  <img src="imagens/banner.jpg" alt="Marcos Silva, Senior QA Engineer: automação de testes Web, Mobile e API, de ponta a ponta" width="100%">
 </a>
 
 <p align="center">
@@ -11,9 +11,10 @@
 
 ### Sobre mim
 
-Senior QA Engineer com mais de 10 anos entre QA, testes e integrações. Construo esteiras de automação
-de ponta a ponta: crio a massa de teste pela API, acompanho o processamento no sistema, valido cada
-campo na interface e no banco e entrego a evidência pronta, para o time testar mais e documentar menos.
+Senior QA Engineer com mais de 10 anos entre QA, testes e integrações. Automatizo testes **Web, Mobile
+e API** integrados ao banco de dados, de ponta a ponta: crio a massa pela API, acompanho o processamento
+no sistema, valido cada campo na interface e no banco e entrego o resultado pronto, para o time testar
+mais e documentar menos.
 
 | 2.096 | −94% | −96% | 240+ |
 | :---: | :---: | :---: | :---: |
@@ -46,12 +47,17 @@ campo na interface e no banco e entrego a evidência pronta, para o time testar 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postman/postman-original.svg" alt="Postman e Newman" title="Postman e Newman" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/appium.svg" alt="Appium" title="Appium" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/salesforce/salesforce-original.svg" alt="Salesforce" title="Salesforce" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" alt="SQL" title="SQL" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gitlab/gitlab-original.svg" alt="GitLab CI" title="GitLab CI" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40">&nbsp;
